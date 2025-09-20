@@ -9,6 +9,23 @@ public class excercises
         System.out.println("average: " + average);
         */
 
+        //E1 1.11
+        /*
+        boolean isRaining, isCold;
+        isRaining = false;
+        isCold = true;
+
+        if (isRaining && isCold == true) {
+            System.out.println("Stay inside");
+        }
+        else {
+            System.out.println("You can go outside");
+        }
+        
+        System.out.println((isRaining && isCold) ? "Stay inside" : "You can go out");
+        */
+
+        //E1 1.12
         
     }
 }
