@@ -1,10 +1,6 @@
+package sol;
 public class excercises
 {
-    double milesToKilometers() {
-        double miles = 100;
-        double kilometers = miles * 1.609344;
-        return kilometers;
-    }
     public static void main(String[] args)
     {
         //E1 1.9
@@ -76,7 +72,9 @@ public class excercises
         System.out.println("Quotient: " + quotient + " Remainder: " + remainder);
         */
 
-        //22/9 lesson
+        //E4 2
+        
+
 
     
 

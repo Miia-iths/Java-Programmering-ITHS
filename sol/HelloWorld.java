@@ -1,3 +1,4 @@
+package sol;
 public class HelloWorld
 {
 <<<<<<< HEAD
