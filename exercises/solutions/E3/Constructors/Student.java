@@ -1,4 +1,4 @@
-package exercises.solutions.E3.constructors;
+package exercises.solutions.E3.Constructors;
 
 class Student {
     private String name;

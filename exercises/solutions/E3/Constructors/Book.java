@@ -1,4 +1,4 @@
-package exercises.solutions.E3.constructors;
+package exercises.solutions.E3.Constructors;
 
 class Book {
     private String title;
