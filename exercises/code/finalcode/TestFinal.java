@@ -3,8 +3,8 @@ package finalcode;
 // Todo: Fix the compile time error
 
 public class TestFinal {
-    static final String firstName = "Maximilian";
-    static final int grade = 67;
+    static String firstName = "Maximilian";
+    static int grade = 67;
 
     public static void increaseGradeByTen(){
         TestFinal.grade = TestFinal.grade + 10;
