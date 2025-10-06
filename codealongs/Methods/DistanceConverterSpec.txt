@@ -1,0 +1,13 @@
+To complete the distance converter app:
+    1. Create menu for choosing what type of distance to convert (miles -> kilometers || kilometers -> miles)
+    2. Ask user to input a distance to be converted.
+    3. Convert distance by use of a parameterized method.
+    4. Ask the user if it wants to convert another distance.
+    5. Run the app again or exit it depending on user input.
+
+
+    !! Challenges !!
+    1. Make the main method have only one codestatement. (Hint, use methods!)
+    2. Create a method for handling invalid input
+    3. Add other distances to convert.
+    4. Create a velocity converter class and implement into the app

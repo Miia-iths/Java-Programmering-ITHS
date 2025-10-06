@@ -9,7 +9,7 @@ public class DistanceConverter {
         double distance = scan.nextDouble();
 
         milesToKilometers(distance);
-
+        scan.close();
     }
 
     static void milesToKilometers(double miles) {
