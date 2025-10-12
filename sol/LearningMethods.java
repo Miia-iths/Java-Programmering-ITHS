@@ -1,4 +1,4 @@
-package sol;
+
 import java.util.Scanner;
 
 public class LearningMethods 

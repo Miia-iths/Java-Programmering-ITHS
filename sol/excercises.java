@@ -1,4 +1,4 @@
-package sol;
+
 public class excercises
 {
     public static void main(String[] args)
